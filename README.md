@@ -1,5 +1,4 @@
 # Project Title: Demand_Shared_Bike_Analysis_by_linear_regression
-# Linear_Regression Algorithm
 # Overview
 - This project outlines a method for predicting bike sharing demand using a linear regression model. By analyzing factors like weather, seasonality, and day of the week, the model can help bike-sharing companies 
   optimize their services.
